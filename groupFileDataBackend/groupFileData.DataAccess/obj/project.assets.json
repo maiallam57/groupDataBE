@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\groupData\\groupFileDataBackend\\groupFileData.DataAccess\\groupFileData.DataAccess.csproj",
+      "projectUniqueName": "C:\\Projects\\task 1\\DataGrouping\\groupFileDataBackend\\groupFileData.DataAccess\\groupFileData.DataAccess.csproj",
       "projectName": "groupFileData.DataAccess",
-      "projectPath": "C:\\Projects\\groupData\\groupFileDataBackend\\groupFileData.DataAccess\\groupFileData.DataAccess.csproj",
+      "projectPath": "C:\\Projects\\task 1\\DataGrouping\\groupFileDataBackend\\groupFileData.DataAccess\\groupFileData.DataAccess.csproj",
       "packagesPath": "C:\\Users\\mai.allam\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\groupData\\groupFileDataBackend\\groupFileData.DataAccess\\obj\\",
+      "outputPath": "C:\\Projects\\task 1\\DataGrouping\\groupFileDataBackend\\groupFileData.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

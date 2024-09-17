@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qCRw2QfLROA=",
+  "dgSpecHash": "YVM1kykoi6k=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\groupData\\groupFileDataBackend\\groupFileData.Services\\groupFileData.Services.csproj",
+  "projectFilePath": "C:\\Projects\\task 1\\DataGrouping\\groupFileDataBackend\\groupFileData.Services\\groupFileData.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mai.allam\\.nuget\\packages\\epplus\\7.3.0\\epplus.7.3.0.nupkg.sha512",
     "C:\\Users\\mai.allam\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
