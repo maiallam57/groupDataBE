@@ -1,0 +1,12 @@
+C:\Projects\groupFileDataBackend\groupFileData.Models\bin\Debug\net8.0\groupFileData.Models.deps.json
+C:\Projects\groupFileDataBackend\groupFileData.Models\bin\Debug\net8.0\groupFileData.Models.dll
+C:\Projects\groupFileDataBackend\groupFileData.Models\bin\Debug\net8.0\groupFileData.Models.pdb
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.csproj.AssemblyReference.cache
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.AssemblyInfoInputs.cache
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.AssemblyInfo.cs
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.csproj.CoreCompileInputs.cache
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.dll
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\refint\groupFileData.Models.dll
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\groupFileData.Models.pdb
+C:\Projects\groupFileDataBackend\groupFileData.Models\obj\Debug\net8.0\ref\groupFileData.Models.dll

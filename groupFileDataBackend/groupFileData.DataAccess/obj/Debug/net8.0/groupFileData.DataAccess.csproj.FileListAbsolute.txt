@@ -1,0 +1,12 @@
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\bin\Debug\net8.0\groupFileData.DataAccess.deps.json
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\bin\Debug\net8.0\groupFileData.DataAccess.dll
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\bin\Debug\net8.0\groupFileData.DataAccess.pdb
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.AssemblyInfo.cs
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.dll
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\refint\groupFileData.DataAccess.dll
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\groupFileData.DataAccess.pdb
+C:\Projects\groupFileDataBackend\groupFileData.DataAccess\obj\Debug\net8.0\ref\groupFileData.DataAccess.dll
